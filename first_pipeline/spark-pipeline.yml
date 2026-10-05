@@ -1,0 +1,6 @@
+
+name: first_pipeline
+storage: file:///Users/admins/Documents/hadoop/spark-declarative-pipeline/first_pipeline/pipeline-storage
+libraries:
+  - glob:
+      include: transformations/**
